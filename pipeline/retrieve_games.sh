@@ -1,8 +1,17 @@
 #!/bin/bash
 username="n15hn"
-year=$(TZ=UTC date -d "today" +%Y)
-month=$(TZ=UTC date -d "today" +%m)
-yesterday=$(TZ=UTC date -d "today" +%Y.%m.%d)
+
+if date -d "today" +%Y >/dev/null 2>&1; then
+    # GNU date
+    year=$(TZ=UTC date -d "today" +%Y)
+    month=$(TZ=UTC date -d "today" +%m)
+    yesterday=$(TZ=UTC date -d "yesterday" +%Y.%m.%d)
+else
+    # macOS/BSD date
+    year=$(TZ=UTC date +%Y)
+    month=$(TZ=UTC date +%m)
+    yesterday=$(TZ=UTC date -v-1d +%Y.%m.%d)
+fi
 
 games_raw="${GAMES_RAW:-games_raw}"
 games_txt="${GAMES_TXT:-games.txt}"
