@@ -1,1 +1,3 @@
 .venv
+.devin
+__pycache__

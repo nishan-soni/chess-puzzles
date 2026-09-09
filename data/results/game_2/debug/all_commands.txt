@@ -1,0 +1,113 @@
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -
+go depth 5
+position fen rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3
+go depth 5
+position fen rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6
+go depth 5
+position fen rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq -
+go depth 5
+position fen rnbqkbnr/pp1ppp1p/6p1/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq -
+go depth 5
+position fen rnbqkbnr/pp1ppp1p/6p1/2p5/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq -
+go depth 5
+position fen rnbqkb1r/pp1ppp1p/5np1/2p5/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq -
+go depth 5
+position fen rnbqkb1r/pp1ppp1p/5np1/2p1P3/2B5/5Q2/PPPP1PPP/RNB1K1NR b KQkq -
+go depth 5
+position fen rnbqk2r/pp1pppbp/5np1/2p1P3/2B5/5Q2/PPPP1PPP/RNB1K1NR w KQkq -
+go depth 5
+position fen rnbqk2r/pp1pppbp/5Pp1/2p5/2B5/5Q2/PPPP1PPP/RNB1K1NR b KQkq -
+go depth 5
+position fen rnbqk2r/pp1ppp1p/5bp1/2p5/2B5/5Q2/PPPP1PPP/RNB1K1NR w KQkq -
+go depth 5
+position fen rnbqk2r/pp1ppp1p/5bp1/2pQ4/2B5/8/PPPP1PPP/RNB1K1NR b KQkq -
+go depth 5
+position fen rnbq1rk1/pp1ppp1p/5bp1/2pQ4/2B5/8/PPPP1PPP/RNB1K1NR w KQ -
+go depth 5
+position fen rnbq1rk1/pp1ppp1p/5bp1/2p5/2B5/5Q2/PPPP1PPP/RNB1K1NR b KQ -
+go depth 5
+position fen rnbq1rk1/pp1p1p1p/4pbp1/2p5/2B5/5Q2/PPPP1PPP/RNB1K1NR w KQ -
+go depth 5
+position fen rnbq1rk1/pp1p1p1p/4pbp1/2p5/2B5/7Q/PPPP1PPP/RNB1K1NR b KQ -
+go depth 5
+position fen rnbq1rk1/pp3p1p/3ppbp1/2p5/2B5/7Q/PPPP1PPP/RNB1K1NR w KQ -
+go depth 5
+position fen rnbq1rk1/pp3p1p/3ppbp1/2p5/2B5/3P3Q/PPP2PPP/RNB1K1NR b KQ -
+go depth 5
+position fen r1bq1rk1/pp3p1p/2nppbp1/2p5/2B5/3P3Q/PPP2PPP/RNB1K1NR w KQ -
+go depth 5
+position fen r1bq1rk1/pp3p1p/2nppbp1/2p5/2B5/2PP3Q/PP3PPP/RNB1K1NR b KQ -
+go depth 5
+position fen r1bq1rk1/pp3p1p/2np1bp1/2p1p3/2B5/2PP3Q/PP3PPP/RNB1K1NR w KQ -
+go depth 5
+position fen r1bq1rk1/pp3p1p/2np1bpB/2p1p3/2B5/2PP3Q/PP3PPP/RN2K1NR b KQ -
+go depth 5
+position fen r2q1rk1/pp3p1p/2np1bpB/2p1p3/2B5/2PP3b/PP3PPP/RN2K1NR w KQ -
+go depth 5
+position fen r2q1Bk1/pp3p1p/2np1bp1/2p1p3/2B5/2PP3b/PP3PPP/RN2K1NR b KQ -
+go depth 5
+position fen r4qk1/pp3p1p/2np1bp1/2p1p3/2B5/2PP3b/PP3PPP/RN2K1NR w KQ -
+go depth 5
+position fen r4qk1/pp3p1p/2np1bp1/2p1p3/2B5/2PP3N/PP3PPP/RN2K2R b KQ -
+go depth 5
+position fen r5k1/pp3p1p/2np1bpq/2p1p3/2B5/2PP3N/PP3PPP/RN2K2R w KQ -
+go depth 5
+position fen r5k1/pp3p1p/2np1bpq/2p1p3/2B5/2PP3N/PP1N1PPP/R3K2R b KQ -
+go depth 5
+position fen 4r1k1/pp3p1p/2np1bpq/2p1p3/2B5/2PP3N/PP1N1PPP/R3K2R w KQ -
+go depth 5
+position fen 4r1k1/pp3p1p/2np1bpq/2p1p3/2B5/2PP3N/PP1N1PPP/2KR3R b - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp1bpq/2p1p3/2B5/2PP3N/PP1N1PPP/2KR3R w - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp1bpq/2p1p3/2B3P1/2PP3N/PP1N1P1P/2KR3R b - g3
+go depth 5
+position fen 4r1k1/p4p1p/1pnp2pq/2p1p1b1/2B3P1/2PP3N/PP1N1P1P/2KR3R w - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp2pq/2p1p1N1/2B3P1/2PP4/PP1N1P1P/2KR3R b - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp2p1/2p1p1q1/2B3P1/2PP4/PP1N1P1P/2KR3R w - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp2p1/2p1p1q1/2B3P1/2PP1P2/PP1N3P/2KR3R b - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp2p1/2p1p3/2B2qP1/2PP1P2/PP1N3P/2KR3R w - -
+go depth 5
+position fen 4r1k1/p4p1p/1pnp2p1/2p1p3/2B2qPP/2PP1P2/PP1N4/2KR3R b - h3
+go depth 5
+position fen 4r1k1/p4p1p/1p1p2p1/n1p1p3/2B2qPP/2PP1P2/PP1N4/2KR3R w - -
+go depth 5
+position fen 4r1k1/p4p1p/1p1p2p1/nBp1p3/5qPP/2PP1P2/PP1N4/2KR3R b - -
+go depth 5
+position fen 3r2k1/p4p1p/1p1p2p1/nBp1p3/5qPP/2PP1P2/PP1N4/2KR3R w - -
+go depth 5
+position fen 3r2k1/p4p1p/1p1p2p1/nBp1p2P/5qP1/2PP1P2/PP1N4/2KR3R b - -
+go depth 5
+position fen 3r2k1/p4p1p/1p1p4/nBp1p2p/5qP1/2PP1P2/PP1N4/2KR3R w - -
+go depth 5
+position fen 3r2k1/p4p1p/1p1p4/nBp1p2R/5qP1/2PP1P2/PP1N4/2KR4 b - -
+go depth 5
+position fen 3r4/p4pkp/1p1p4/nBp1p2R/5qP1/2PP1P2/PP1N4/2KR4 w - -
+go depth 5
+position fen 3r4/p4pkp/1p1p4/nBp1pR2/5qP1/2PP1P2/PP1N4/2KR4 b - -
+go depth 5
+position fen 3r4/p4pkp/1p1p3q/nBp1pR2/6P1/2PP1P2/PP1N4/2KR4 w - -
+go depth 5
+position fen 3r4/p4pkp/1p1p3q/nBp1pR2/6P1/2PP1P2/PP1N4/1K1R4 b - -
+go depth 5
+position fen 5r2/p4pkp/1p1p3q/nBp1pR2/6P1/2PP1P2/PP1N4/1K1R4 w - -
+go depth 5
+position fen 5r2/p4pkp/1p1p3q/nBp1pR2/4N1P1/2PP1P2/PP6/1K1R4 b - -
+go depth 5
+position fen 4r3/p4pkp/1p1p3q/nBp1pR2/4N1P1/2PP1P2/PP6/1K1R4 w - -
+go depth 5
+position fen 4r3/p4pkp/1p1p3q/nBp1pRN1/6P1/2PP1P2/PP6/1K1R4 b - -
+go depth 5
+position fen 4r3/pn3pkp/1p1p3q/1Bp1pRN1/6P1/2PP1P2/PP6/1K1R4 w - -
+go depth 5
+position fen 4r3/pn3Nkp/1p1p3q/1Bp1pR2/6P1/2PP1P2/PP6/1K1R4 b - -
+go depth 5
+position fen 4r3/pn3Nkp/1p1p4/1Bp1pR2/6P1/2PP1P2/PP5q/1K1R4 w - -
+go depth 5
+position fen 4r3/pn4kp/1p1N4/1Bp1pR2/6P1/2PP1P2/PP5q/1K1R4 b - -
+go depth 5
+quit
