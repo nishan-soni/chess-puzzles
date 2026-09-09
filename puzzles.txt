@@ -1,0 +1,2 @@
+2kr3r/p2bn1b1/1p3n1p/2pp2p1/3N4/3B1N2/PPP2PPP/R1B2RK1 w - - <t> 2kr3r/p2bn1b1/1p3n1p/2pp1Np1/8/3B1N2/PPP2PPP/R1B2RK1 b - - <t> e7f5 d3f5 d7f5
+2kr1b1r/pp1bn1pp/2p2n2/3p2N1/8/2NB4/PPP2PPP/R1B2RK1 w - - <t> 2kr1b1r/pp1bn1pp/2p2n2/3p4/8/2NB1N2/PPP2PPP/R1B2RK1 b - - <t> e7g6 c3e2
