@@ -150,8 +150,8 @@ class ChessPuzzleApp(App):
     BoardView {
         layout: grid;
         grid-size: 9 9;
-        width: 54;
-        height: 27;
+        width: 45;
+        height: 23;
         align: center middle;
     }
 
