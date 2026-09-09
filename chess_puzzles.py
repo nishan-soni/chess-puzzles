@@ -31,7 +31,7 @@ WHITE_PIECE_COLOR = "#ffffff"
 BLACK_PIECE_COLOR = "#000000"
 LIGHT_SQUARE_BG = "#C4A484"
 DARK_SQUARE_BG = "#BB9672"
-SELECTED_BG = "#c9982e"
+SELECTED_BG = "#87CEEB"
 
 
 class Square(Static, can_focus=False):
@@ -175,13 +175,6 @@ class ChessPuzzleApp(App):
         width: 100%;
     }
 
-    #status {
-        color: #000000;
-        text-align: center;
-        height: 1;
-        width: 100%;
-    }
-
     Vertical {
         align: center middle;
         height: auto;
@@ -212,13 +205,12 @@ class ChessPuzzleApp(App):
         with Vertical():
             yield Static("", id="turn")
             yield BoardView()
-            yield Static("", id="status")
 
     def on_mount(self):
         self.refresh_board()
 
     def _set_status(self, message: str):
-        self.query_one("#status").update(message)
+        self.query_one("#turn").update(message)
 
     def _refresh_turn(self):
         turn = self.query_one("#turn")
@@ -289,9 +281,7 @@ class ChessPuzzleApp(App):
             else:
                 src = state.selected_square
                 state.selected_square = None
-                message = state.try_move(src, square_name)
-                if message:
-                    self._set_status(message)
+                state.try_move(src, square_name)
 
         self.refresh_board()
 
